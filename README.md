@@ -1,21 +1,9 @@
-#############################################################
-#															#
-#					  Knowledge Structure					#
-#							Core							#
-#															#
-#							Ver 1.0							#
-#															#
-#															#
-#			Copyright(c)2020.10.07 All rights reserved by   #
-#															#
-#			Knowledge Innovation Research Center			#
-#															#
-#############################################################
+# Knowledge Structure Ver 1.0														
+### Copyright(c) 2020.10.07 All rights reserved by Knowledge Innovation Research Center
+	Last modified in 2017.06
 
-
-
-DESCRIPTION
-	This program is composed of 8 packages. 
+### DESCRIPTION
+This program is composed of 8 packages. 
 	- com.kirc.core.sample
 	- f1.com.kirc.core.config
 	- f2.com.kirc.core.nlp
@@ -25,7 +13,7 @@ DESCRIPTION
 	- option.com.kirc.core.output.localgraph
 	- option.com.kirc.core.output.webgraph
 
-	and each packages contains source codes of conceptual seperation. 
+and each packages contains source codes of conceptual seperation. 
 
 	1) [com.kirc.core.sample] contains the very main method to run this program.
 	2) [f1.com.kirc.core.config] contains a configuration loader, while config.properties contains all the local settings to run the program.
@@ -37,21 +25,22 @@ DESCRIPTION
 	8) [option.com.kirc.core.output.webgraph] contains html-based web graph generator exploiting the result.
 
 
-INSTALLATION
+### INSTALLATION
 	no installation is required to run this software since it will never be released as it is. 
 
-DEPENDENCIES
-	Graph Library
-		Web) vis.zip, http://visjs.org/index.html#download_install
-		Local) JPathfinder.jar, http://interlinkinc.net/
-	NLP Library
-		Korean) KOMORAN, http://www.shineware.co.kr
-		English) stanford-postagger-3.6.0.jar, http://nlp.stanford.edu/software/tagger.shtml
+### DEPENDENCIES
+##### Graph Library
+	Web) vis.zip, http://visjs.org/index.html#download_install
+	Local) JPathfinder.jar, http://interlinkinc.net/
 
-LICENSE
+##### NLP Library
+	Korean) KOMORAN, http://www.shineware.co.kr
+	English) stanford-postagger-3.6.0.jar, http://nlp.stanford.edu/software/tagger.shtml
+
+### LICENSE
 	Copyright(c)2020 All rights reserved by Knowledge Innovation Research Center
 
-CREDIT
+### CREDIT
 	Cheonsol Lee
 	Moojin Kim
 	JAYONG KIM
