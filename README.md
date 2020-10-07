@@ -1,6 +1,6 @@
 # Knowledge Structure Ver 1.0														
 ### Copyright(c) 2020.10.07 All rights reserved by Knowledge Innovation Research Center
-### Last modified in 2017.06
+	Last modified in 2017.06
 
 ### DESCRIPTION
 This program is composed of 8 packages. 
