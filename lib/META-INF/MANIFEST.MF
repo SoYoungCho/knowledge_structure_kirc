@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: 14.0-b16 (Sun Microsystems Inc.)
+Specification-Title: Lucene Search Engine: core
+Specification-Version: 2.9.1
+Specification-Vendor: The Apache Software Foundation
+Implementation-Title: org.apache.lucene
+Implementation-Version: 2.9.1 832363 - 2009-11-03 04:37:25
+Implementation-Vendor: The Apache Software Foundation
+X-Compile-Source-JDK: 1.4
+X-Compile-Target-JDK: 1.4
+

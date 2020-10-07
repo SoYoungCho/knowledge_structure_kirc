@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afefd793-92ae-4bc7-a267-1a2d87d5bb14" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hfqCs9GcF33QqzpBzaZEU52nIn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.CreateKS">
+    <configuration name="CreateKS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kirc.core.sample.CreateKS" />
+      <module name="knowledge_structure_generator_nrf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kirc.core.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kirc.core.sample.IndexFiles" />
+      <module name="knowledge_structure_generator_nrf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kirc.core.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Korean_postagger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="f2.com.kirc.core.nlp.Korean_postagger" />
+      <module name="knowledge_structure_generator_nrf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="f2.com.kirc.core.nlp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PreprocNLP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kirc.core.sample.PreprocNLP" />
+      <module name="knowledge_structure_generator_nrf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kirc.core.sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CreateKS" />
+        <item itemvalue="Application.PreprocNLP" />
+        <item itemvalue="Application.IndexFiles" />
+        <item itemvalue="Application.Korean_postagger" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afefd793-92ae-4bc7-a267-1a2d87d5bb14" name="Default Changelist" comment="" />
+      <created>1600412370418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600412370418</updated>
+      <workItem from="1600412395589" duration="301000" />
+      <workItem from="1600412725711" duration="11567000" />
+      <workItem from="1600434611561" duration="1271000" />
+      <workItem from="1600651992499" duration="9743000" />
+      <workItem from="1600827515150" duration="3024000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600412858819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-433.1200.1880@0.0.1920.1040" timestamp="1600412858819" />
+    <state x="771" y="401" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1600412617307">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="401" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/1920.-433.1200.1880@0.0.1920.1040" timestamp="1600412617307" />
+    <state x="689" y="216" key="FileChooserDialogImpl" timestamp="1600427904895">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="216" key="FileChooserDialogImpl/0.0.1920.1040/1920.-433.1200.1880@0.0.1920.1040" timestamp="1600427904895" />
+    <state width="1865" height="232" key="GridCell.Tab.0.bottom" timestamp="1600781119490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-433.1200.1880@0.0.1920.1040" timestamp="1600781119490" />
+    <state width="1865" height="232" key="GridCell.Tab.0.center" timestamp="1600781119490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="232" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-433.1200.1880@0.0.1920.1040" timestamp="1600781119490" />
+    <state width="1865" height="232" key="GridCell.Tab.0.left" timestamp="1600781119490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="232" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-433.1200.1880@0.0.1920.1040" timestamp="1600781119490" />
+    <state width="1865" height="232" key="GridCell.Tab.0.right" timestamp="1600781119490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="232" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-433.1200.1880@0.0.1920.1040" timestamp="1600781119490" />
+    <state x="337" y="75" key="SettingsEditor" timestamp="1600412667655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="337" y="75" key="SettingsEditor/0.0.1920.1040/1920.-433.1200.1880@0.0.1920.1040" timestamp="1600412667655" />
+    <state x="208" y="20" key="new project wizard" timestamp="1600414312179">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="208" y="20" key="new project wizard/0.0.1920.1040/1920.-433.1200.1880@0.0.1920.1040" timestamp="1600414312179" />
+  </component>
+</project>
