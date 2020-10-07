@@ -1,17 +1,5 @@
-#############################################################
-#															#
-#					  Knowledge Structure					#
-#							Core							#
-#															#
-#							Ver 1.0							#
-#															#
-#															#
-#			Copyright(c)2020.10.07 All rights reserved by   #
-#															#
-#			Knowledge Innovation Research Center			#
-#															#
-#############################################################
-
+# Knowledge Structure Ver 1.0														
+# Copyright(c)2020.10.07 All rights reserved by Knowledge Innovation Research Center
 
 
 DESCRIPTION
