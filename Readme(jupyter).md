@@ -1,6 +1,6 @@
 # Knowledge Graph Generator
-지식그래프 생성
-
+지식그래프 생성<br>
+파일명 : "ks_graph_generator.ipynb"
 #### *Made by cheonsol lee - Updated(2020.11.03)* ####
 
 ----------
