@@ -39,7 +39,7 @@ and each packages contains source codes of conceptual seperation.
 	
 
 ### Knowledge Graph Generator
-	https://github.com/cheonsol-lee/knowledge_structure_kirc/blob/master/Readme(jupyter).md
+[Readme : Knowledge Graph Generator](https://github.com/cheonsol-lee/knowledge_structure_kirc/blob/master/Readme(jupyter).md)
 
 ### LICENSE
 	Copyright(c)2020 All rights reserved by Knowledge Innovation Research Center
