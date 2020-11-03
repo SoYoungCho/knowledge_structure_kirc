@@ -36,6 +36,10 @@ and each packages contains source codes of conceptual seperation.
 ##### NLP Library
 	Korean) KOMORAN, http://www.shineware.co.kr
 	English) stanford-postagger-3.6.0.jar, http://nlp.stanford.edu/software/tagger.shtml
+	
+
+### Knowledge Graph Generator
+	https://github.com/cheonsol-lee/knowledge_structure_kirc/blob/master/Readme(jupyter).md
 
 ### LICENSE
 	Copyright(c)2020 All rights reserved by Knowledge Innovation Research Center
