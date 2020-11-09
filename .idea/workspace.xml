@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="afefd793-92ae-4bc7-a267-1a2d87d5bb14" name="Default Changelist" comment="" />
+    <list default="true" id="afefd793-92ae-4bc7-a267-1a2d87d5bb14" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/ks_graph_generator-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/ks_graph_generator-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ks_graph_generator.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ks_graph_generator.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lucene/_0.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lucene/_0.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lucene/_0.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lucene/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/lucene/segments.gen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lucene/segments_1" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -22,9 +35,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunManager" selected="Application.CreateKS">
@@ -104,6 +118,7 @@
       <workItem from="1600434611561" duration="1271000" />
       <workItem from="1600651992499" duration="9743000" />
       <workItem from="1600827515150" duration="3024000" />
+      <workItem from="1604897403543" duration="5517000" />
     </task>
     <servers />
   </component>
@@ -123,22 +138,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="689" y="216" key="FileChooserDialogImpl/0.0.1920.1040/1920.-433.1200.1880@0.0.1920.1040" timestamp="1600427904895" />
-    <state width="1865" height="232" key="GridCell.Tab.0.bottom" timestamp="1600781119490">
+    <state width="1865" height="262" key="GridCell.Tab.0.bottom" timestamp="1604931935904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-433.1200.1880@0.0.1920.1040" timestamp="1600781119490" />
-    <state width="1865" height="232" key="GridCell.Tab.0.center" timestamp="1600781119490">
+    <state width="1865" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-433.1200.1880@0.0.1920.1040" timestamp="1604931935904" />
+    <state width="1865" height="262" key="GridCell.Tab.0.center" timestamp="1604931935904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="232" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-433.1200.1880@0.0.1920.1040" timestamp="1600781119490" />
-    <state width="1865" height="232" key="GridCell.Tab.0.left" timestamp="1600781119490">
+    <state width="1865" height="262" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-433.1200.1880@0.0.1920.1040" timestamp="1604931935904" />
+    <state width="1865" height="262" key="GridCell.Tab.0.left" timestamp="1604931935904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="232" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-433.1200.1880@0.0.1920.1040" timestamp="1600781119490" />
-    <state width="1865" height="232" key="GridCell.Tab.0.right" timestamp="1600781119490">
+    <state width="1865" height="262" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-433.1200.1880@0.0.1920.1040" timestamp="1604931935904" />
+    <state width="1865" height="262" key="GridCell.Tab.0.right" timestamp="1604931935904">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="232" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-433.1200.1880@0.0.1920.1040" timestamp="1600781119490" />
+    <state width="1865" height="262" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-433.1200.1880@0.0.1920.1040" timestamp="1604931935904" />
     <state x="337" y="75" key="SettingsEditor" timestamp="1600412667655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
