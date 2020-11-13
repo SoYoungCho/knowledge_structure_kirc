@@ -15,9 +15,13 @@
 		var container = document.getElementById('mynetwork');
 		var data = { nodes: nodes, edges: edges }; 
         var options = 
-        { "groups": {1: {color: 'red', mass: 5}},
-        	"edges": {"smooth": {"forceDirection": "none"}},
-        "physics": {"barnesHut": {"centralGravity": 0.5,"springLength": 305},
+        {"nodes":
+            {"shape" : "circle",
+             "font":
+                {"size":35}},
+        "edges": {"font":{"size": 40},
+            "smooth": {"type":"dynamic","roundness": 0.5}},
+        "physics": {"barnesHut": {"centralGravity": 0.2,"springLength": 1000},
         "minVelocity": 0.75}}; 
         var network = new vis.Network(container, data, options);
 	</script>
