@@ -2,20 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afefd793-92ae-4bc7-a267-1a2d87d5bb14" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/ks_graph_generator-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/ks_graph_generator-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ks_graph_generator.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ks_graph_generator.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lucene/_0.cfe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lucene/_0.cfs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lucene/_0.si" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lucene/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/lucene/segments.gen" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lucene/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/result_webgraph/data/차_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/results/result_webgraph/data/차_test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/result_webgraph/차_test.html" beforeDir="false" afterPath="$PROJECT_DIR$/results/result_webgraph/차_test.html" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,7 +40,19 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.CreateKS">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
     <configuration name="CreateKS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kirc.core.sample.CreateKS" />
       <module name="knowledge_structure_generator_nrf" />
@@ -94,14 +105,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.CreateKS" />
-        <item itemvalue="Application.PreprocNLP" />
-        <item itemvalue="Application.IndexFiles" />
-        <item itemvalue="Application.Korean_postagger" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -119,11 +122,23 @@
       <workItem from="1600651992499" duration="9743000" />
       <workItem from="1600827515150" duration="3024000" />
       <workItem from="1604897403543" duration="5517000" />
+      <workItem from="1605509075687" duration="97000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="167" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600412858819">

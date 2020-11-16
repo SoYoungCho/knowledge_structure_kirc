@@ -3,10 +3,12 @@
 <html>
 <head>
 	<title>Knowledge Structure</title>
-    <script type="text/javascript" src="../../lib/drawing/vis.js"></script><script src="../../results/result_webgraph/data/차_test.js" charset="utf-8">
+    <script type="text/javascript" src="../../lib/drawing/vis.js"></script>
+    <script src="../../results/result_webgraph/data/차_test.js" charset="utf-8">
     </script>
     <style type="text/css">#mynetwork 
-    {width: 100%;height: 1000px;border: 1px solid lightgray;}</style>
+        {width: 100%;height: 1000px;border: 1px solid lightgray;}
+    </style>
 </head>
 <body>
 <p> Cheonsol of Knowledge Structure.</p>
@@ -19,7 +21,7 @@
             {"shape" : "circle",
              "font":
                 {"size":35}},
-        "edges": {"font":{"size": 40},
+        "edges": {"scaling":{"max":60},"font":{"size":30},
             "smooth": {"type":"dynamic","roundness": 0.5}},
         "physics": {"barnesHut": {"centralGravity": 0.2,"springLength": 1000},
         "minVelocity": 0.75}}; 

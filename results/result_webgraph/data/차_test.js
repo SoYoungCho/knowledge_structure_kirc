@@ -33,7 +33,7 @@ var edges = [
 {'from': 7, 'to': 8, 'label': '4.68', 'value': 2.32, 'length': 210.0, 'color': '#97C2FC'}, 
 {'from': 7, 'to': 17, 'label': '6.0', 'value': 1.0, 'length': 375.0, 'color': '#97C2FC'}, 
 {'from': 7, 'to': 18, 'label': '6.23', 'value': 0.77, 'length': 403.75, 'color': '#97C2FC'}, 
-{'from': 8, 'to': 10, 'label': '5.3', 'value': 50.7, 'length': 287.5, 'color': '#97C2FC'}, 
+{'from': 8, 'to': 10, 'label': '5.3', 'value': 1.7, 'length': 287.5, 'color': '#97C2FC'}, 
 {'from': 8, 'to': 11, 'label': '5.66', 'value': 1.34, 'length': 332.5, 'color': '#97C2FC'}, 
 {'from': 9, 'to': 10, 'label': '4.85', 'value': 2.15, 'length': 231.25, 'color': '#97C2FC'}, 
 {'from': 9, 'to': 14, 'label': '5.69', 'value': 1.31, 'length': 336.25, 'color': '#97C2FC'}, 
