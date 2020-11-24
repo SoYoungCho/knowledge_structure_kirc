@@ -3,6 +3,7 @@
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/xerces/xercesImpl/2.8.0/xercesImpl-2.8.0.jar!/" />
     </CLASSES>
+    <JAVADOC />
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/xerces/xercesImpl/2.8.0/xercesImpl-2.8.0-sources.jar!/" />
     </SOURCES>

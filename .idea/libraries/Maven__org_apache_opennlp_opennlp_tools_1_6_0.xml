@@ -3,6 +3,7 @@
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/org/apache/opennlp/opennlp-tools/1.6.0/opennlp-tools-1.6.0.jar!/" />
     </CLASSES>
+    <JAVADOC />
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/org/apache/opennlp/opennlp-tools/1.6.0/opennlp-tools-1.6.0-sources.jar!/" />
     </SOURCES>

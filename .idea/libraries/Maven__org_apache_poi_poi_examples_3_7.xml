@@ -3,6 +3,7 @@
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-examples/3.7/poi-examples-3.7.jar!/" />
     </CLASSES>
+    <JAVADOC />
     <SOURCES>
       <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-examples/3.7/poi-examples-3.7-sources.jar!/" />
     </SOURCES>
