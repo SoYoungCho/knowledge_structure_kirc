@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.kirc.core.sample.Integrate_ks
+

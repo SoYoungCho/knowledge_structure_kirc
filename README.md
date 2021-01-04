@@ -4,25 +4,25 @@
 
 ### DESCRIPTION
 This program is composed of 8 packages. 
-	- com.kirc.core.sample
-	- f1.com.kirc.core.config
-	- f2.com.kirc.core.nlp
-	- f3.com.kirc.core.coTable
-	- f4.com.kirc.core.model
-	- f5.com.kirc.core.output
-	- option.com.kirc.core.output.localgraph
-	- option.com.kirc.core.output.webgraph
+	- Main.core.sample
+	- Main.config
+	- Main.nlp
+	- Main.coTable
+	- Main.model
+	- Main.output
+	- option.Main.core.output.localgraph
+	- option.Main.core.output.webgraph
 
 and each packages contains source codes of conceptual seperation. 
 
-	1) [com.kirc.core.sample] contains the very main method to run this program.
-	2) [f1.com.kirc.core.config] contains a configuration loader, while config.properties contains all the local settings to run the program.
-	3) [f2.com.kirc.core.nlp] analyses the input text and seperate each terms considering Korean and English.
-	4) [f3.com.kirc.core.coTable] calculates cotable of cooccurence and cosign-similarity, sentence-wise and paragraph-wise.
-	5) [f4.com.kirc.core.model] contains source codes which generates Proximity Model with Pathfinder algorithm.
-	6) [f5.com.kirc.core.output] contains textual output generator. The texts are represented by json format 1, json format 2, list of edges, and list of vertexes.
-	7) [option.com.kirc.core.output.localgraph] contains jar-based local graph generator exploiting the result.
-	8) [option.com.kirc.core.output.webgraph] contains html-based web graph generator exploiting the result.
+	1) [Main.core.sample] contains the very main method to run this program.
+	2) [Main.config] contains a configuration loader, while config.properties contains all the local settings to run the program.
+	3) [Main.nlp] analyses the input text and seperate each terms considering Korean and English.
+	4) [Main.coTable] calculates cotable of cooccurence and cosign-similarity, sentence-wise and paragraph-wise.
+	5) [Main.model] contains source codes which generates Proximity Model with Pathfinder algorithm.
+	6) [Main.output] contains textual output generator. The texts are represented by json format 1, json format 2, list of edges, and list of vertexes.
+	7) [option.Main.core.output.localgraph] contains jar-based local graph generator exploiting the result.
+	8) [option.Main.core.output.webgraph] contains html-based web graph generator exploiting the result.
 
 
 ### INSTALLATION

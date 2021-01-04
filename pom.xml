@@ -21,7 +21,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.kirc.core.sample.DrawKSGraph</mainClass>
+							<mainClass>com.kirc.core.sample.Integrate_ks</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
@@ -31,12 +31,27 @@
 			</plugin>
 		</plugins>
 	</build>
+
+	<!-- komoran을 가져오기 위해서 필요한 코드 -->
+	<repositories>
+		<repository>
+			<id>jitpack.io</id>
+			<url>https://jitpack.io</url>
+		</repository>
+	</repositories>
+
+
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/edu.stanford.nlp/stanford-corenlp -->
 		<dependency>
 			<groupId>edu.stanford.nlp</groupId>
 			<artifactId>stanford-corenlp</artifactId>
 			<version>3.6.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.github.shin285</groupId>
+			<artifactId>KOMORAN</artifactId>
+			<version>3.3.2</version>
 		</dependency>
 		<dependency>
 			<groupId>mysql</groupId>

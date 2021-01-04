@@ -107,6 +107,9 @@
     <orderEntry type="library" name="Maven: com.googlecode.efficient-java-matrix-library:ejml:0.23" level="project" />
     <orderEntry type="library" name="Maven: javax.json:javax.json-api:1.0" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.12" level="project" />
+    <orderEntry type="library" name="Maven: com.github.shin285:KOMORAN:3.3.2" level="project" />
+    <orderEntry type="library" name="Maven: com.github.shineware:commons:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.github.shineware:aho-corasick:1.0.9" level="project" />
     <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.46" level="project" />
     <orderEntry type="library" name="Maven: org.apache.lucene:lucene-core:4.9.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.lucene:lucene-queryparser:4.9.1" level="project" />
