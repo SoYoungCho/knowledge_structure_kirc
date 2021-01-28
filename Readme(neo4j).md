@@ -1,7 +1,7 @@
-# Knowledge Graph Generator
+# Knowledge Graph Generator(Neo4j)
 지식그래프 생성<br>
-파일명 : "ks_graph_generator.ipynb"
-#### *Made by cheonsol lee - Updated(2020.11.03)* ####
+파일명 : "ks_generator_neo4j.ipynb"
+#### *Made by soyoung cho - Updated(2021.01.28)* ####
 
 ----------
 ### 1. 목적
@@ -10,16 +10,17 @@
 
 ----------
 ### 2. 특징
-* 지식그래프는 2가지 파일로 구성됨.
-1. 데이터.js   : node, edge, weight에 대한 세부정보 기술
-2. 데이터.html : 데이터.js, vis.js(시각화 라이브러리)를 로드하여 지식그래프 추출
+* Neo4j는 그래프 구성에 적합한 NoSQL 데이터베이스
+* Cypher라는 언어 사용
 
 
 ----------
 ### 3. 설치할 것
+* Neo4j
+https://neo4j.com/download/
 
-* import pymysql : mysql사용
-* import networkx : edge, weight입력시 node를 자동으로 추출함.
+* pip install py2neo
+파이썬에서 neo4j를 사용하기 위함
 
 
 ----------
@@ -32,6 +33,5 @@
 > knowledge_structure[인덱스] : 그래프화 하고 싶은 지식구조의 인덱스 번호를 기재<br>
 > 띄어쓰기로 구분된 문장을 edge리스트 형태로 변형
 
-(3) Data JavaScript File 생성
-> 키워드.js, 키워드.html 2가지 파일이 생성됨<br>
-> file_name변수에 출력할 파일명만 입력하면 지식그래프 추출됨
+(3) Neo4J 연결
+> 지식구조 리스트를 neo4j형태로 변형하여 transaction commit을 진행함.
