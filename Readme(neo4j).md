@@ -16,11 +16,9 @@
 
 ----------
 ### 3. 설치할 것
-* Neo4j
-https://neo4j.com/download/
+* Neo4j : https://neo4j.com/download/
 
-* pip install py2neo
-파이썬에서 neo4j를 사용하기 위함
+* pip install py2neo : 파이썬에서 neo4j를 사용하기 위함
 
 
 ----------
