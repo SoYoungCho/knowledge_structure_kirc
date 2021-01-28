@@ -1,5 +1,5 @@
 # Knowledge Structure Ver 1.0														
-### Copyright(c) 2020.10.07 All rights reserved by Knowledge Innovation Research Center
+### Copyright(c) 2021.01.28 All rights reserved by Knowledge Innovation Research Center
 	Last modified in 2020.11
 
 ### DESCRIPTION
@@ -41,10 +41,14 @@ and each packages contains source codes of conceptual seperation.
 ### Knowledge Graph Generator
 [Readme : Knowledge Graph Generator](https://github.com/cheonsol-lee/knowledge_structure_kirc/blob/master/Readme(jupyter).md)
 
+### Knowledge Graph Generator(Neo4j version.)
+[Readme : Knowledge Graph Generator(Neo4j)](https://github.com/cheonsol-lee/knowledge_structure_kirc/blob/master/Readme(neo4j).md)
+
 ### LICENSE
 	Copyright(c)2020 All rights reserved by Knowledge Innovation Research Center
 
 ### CREDIT
+	Soyoung Cho
 	Cheonsol Lee
 	Moojin Kim
 	JAYONG KIM
