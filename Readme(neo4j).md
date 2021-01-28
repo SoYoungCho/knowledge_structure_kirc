@@ -33,3 +33,9 @@
 
 (3) Neo4J 연결
 > 지식구조 리스트를 neo4j형태로 변형하여 transaction commit을 진행함.
+
+----------
+### 5.생성된 Neo4j 그래프
+
+![neo4j그래프](https://user-images.githubusercontent.com/28869864/106124175-247f9480-619e-11eb-9a17-61af335015b8.png)
+
