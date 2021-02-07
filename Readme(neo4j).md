@@ -1,6 +1,6 @@
 # Knowledge Graph Generator(Neo4j)
 지식그래프 생성<br>
-파일명 : "ks_generator_neo4j.ipynb"
+파일명 : "ks_graph_generator_neo4j.ipynb"
 #### *Made by soyoung cho - Updated(2021.01.28)* ####
 
 ----------
