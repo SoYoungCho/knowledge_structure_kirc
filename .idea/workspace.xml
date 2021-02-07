@@ -11,12 +11,14 @@
   <component name="ChangeListManager">
     <list default="true" id="afefd793-92ae-4bc7-a267-1a2d87d5bb14" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/ks_generator_neo4j-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/ks_generator_neo4j-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ks_generator_neo4j.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ks_generator_neo4j.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ks_graph_generator.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ks_graph_generator.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lucene/_1.cfe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lucene/_1.cfs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lucene/_1.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lucene/_5.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lucene/_5.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lucene/_5.si" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/lucene/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/lucene/segments.gen" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lucene/segments_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lucene/segments_6" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,0 +1,29 @@
+
+<!doctype html>
+<html>
+<head>
+	<title>Knowledge Structure</title>
+    <script type="text/javascript" src="../../lib/drawing/vis.js"></script>
+    <script src="../../results/result_webgraph/data/kaist.js" charset="utf-8">
+    </script>
+    <style type="text/css">#mynetwork 
+        {width: 100%;height: 1000px;border: 1px solid lightgray;}
+    </style>
+</head>
+<body>
+    <p> Cheonsol of Knowledge Structure.</p>
+    <div id="mynetwork"></div>
+	<script type="text/javascript">
+		var container = document.getElementById('mynetwork');
+		var data = { nodes: nodes, edges: edges }; 
+        var options = 
+        { "nodes": {"shape" : "circle",
+                    "font":{"size": 35}},
+        "edges": {"scaling":{"max":70}, "font": {"size" : 40}, 
+            "smooth": {"type":"continuous","roundness": 0.5}},
+            "physics": {"barnesHut": {"centralGravity": 0.001},
+            "minVelocity": 0.75}};
+        var network = new vis.Network(container, data, options);
+	</script>
+</body>
+</html>
