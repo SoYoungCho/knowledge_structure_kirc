@@ -151,7 +151,7 @@ public class GraphUtil {
 			strtemp.append(prxks.ksModel.getEdges().get(i).getDestination().toString()+ ",");
 			strtemp.append(Math.round(prxks.ksModel.getEdges().get(i).getWeight()*100)/100.00+ "\n");
 		}
-		System.out.println("strtmp: " + strtemp);
+		System.out.println("strtmp1: " + strtemp);
 		return strtemp.toString();
 	}
 	
@@ -164,7 +164,7 @@ public class GraphUtil {
 			strtemp += PRXModel.ksModel.getEdges().get(i).getDestination().toString()+ ",";
 			strtemp += Math.round(PRXModel.ksModel.getEdges().get(i).getWeight()*100)/100.0+ "\n";
 		}
-		//System.out.println(strtemp);
+		System.out.println("strtmp2: " + strtemp);
 		return strtemp;
 	}
 }

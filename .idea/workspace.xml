@@ -11,14 +11,22 @@
   <component name="ChangeListManager">
     <list default="true" id="afefd793-92ae-4bc7-a267-1a2d87d5bb14" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/ks_generator_neo4j-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/ks_generator_neo4j-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ks_generator_neo4j.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ks_generator_neo4j.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ks_graph_generator.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ks_graph_generator.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lucene/_5.cfe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lucene/_5.cfs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lucene/_5.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lucene/_6.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lucene/_6.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lucene/_6.si" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/lucene/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/lucene/segments.gen" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lucene/segments_6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lucene/segments_7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/neo4j.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/result_webgraph/data/바이오.js" beforeDir="false" afterPath="$PROJECT_DIR$/results/result_webgraph/data/바이오.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kirc/core/sample/CreateKS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kirc/core/sample/CreateKS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/f3/com/kirc/core/coTable/CoSimilarity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/f3/com/kirc/core/coTable/CoSimilarity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/f4/com/kirc/core/model/GraphUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/f4/com/kirc/core/model/GraphUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/f4/com/kirc/core/model/PRXKSGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/f4/com/kirc/core/model/PRXKSGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kirc/core/sample/CreateKS.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kirc/core/sample/CreateKS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/f3/com/kirc/core/coTable/CoSimilarity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/f3/com/kirc/core/coTable/CoSimilarity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/f4/com/kirc/core/model/GraphUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/f4/com/kirc/core/model/GraphUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/f4/com/kirc/core/model/PRXKSGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/f4/com/kirc/core/model/PRXKSGenerator.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +59,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cheonsol-lee.github.io" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.Integrate_ks">
+  <component name="RunManager" selected="Application.CreateKS">
     <configuration name="CreateKS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kirc.core.sample.CreateKS" />
       <module name="knowledge_structure_generator_nrf" />
@@ -125,8 +133,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Integrate_ks" />
         <item itemvalue="Application.CreateKS" />
+        <item itemvalue="Application.Integrate_ks" />
         <item itemvalue="Application.PreprocNLP (1)" />
         <item itemvalue="Application.IndexFiles (1)" />
         <item itemvalue="Application.IntegrateKS" />

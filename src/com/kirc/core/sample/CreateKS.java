@@ -103,10 +103,11 @@ public class CreateKS {
 			HashMap<String, Float> tfIdfVector = coTable.tfidfTermMap;
 			DBUtils.uploadTfIdfVector2DB(conn, doc_id, gson.toJson(tfIdfVector));
 			PRXKSGenerator prxks = new PRXKSGenerator(config, coTable);
+
 			ks = GraphUtil.printKsEdges(prxks);
-			
+
 			DBUtils.uploadKS2DB(conn, doc_id, Constants.DB_TABLE_NAME_KS, config.cot_mode, ks);
-			
+
 			/* outputInterface. (json handler, print into file, putting into DB) */ 
 			outputInterface outputInterface = new outputInterface(config, prxks);
 			

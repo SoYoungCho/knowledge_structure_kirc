@@ -66,9 +66,8 @@ public class CoSimilarity{
 			dot += leftVector.get(i) * rightVector.get(i);
 			leftNorm = leftNorm + Math.pow(leftVector.get(i), 2);
 			rightNorm += Math.pow(rightVector.get(i), 2);
-
 		}
-
+		/* 7점 스케일 변환 */
 		if(leftNorm==0|| rightNorm == 0) result = 7.0;
 		else{
 			leftNorm = Math.pow(leftNorm,0.5);

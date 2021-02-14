@@ -35,7 +35,8 @@ public class PRXKSGenerator {
 	
 	public PRXKSGenerator(Config config, coTableGenerator coTable) {
 
-		//System.out.println("STEP 4. Constructing Proximity Model & PathFinder Network...");
+		System.out.println("STEP 4. Constructing Proximity Model & PathFinder Network...");
+
 		/* knot program result */
 		config.prxFile = "./results/result_data/"+config.targetFileName+".prx";
 		config.prxpfFile = "./results/result_data/"+config.targetFileName+".pf";
@@ -53,14 +54,14 @@ public class PRXKSGenerator {
 		ksModel.setVertexes(GraphUtil.addNodes(coTable.sortedValue));
 		ksModel.setEdges(GraphUtil.addEdges(ksModel, config.prxpfFile));
 		links = gson.toJson(ksModel.getEdges());//+ System.getProperty("line.separator");
-		terms = coTable.terms.toString();	
+		terms = coTable.terms.toString();
 
 		new File(config.prxFile).delete();
 		new File(config.prxpfFile).delete();
 
 		//System.out.println("\tterms have been set!");
 		//System.out.println("\tlinks have been set!");
-		//System.out.println("\n--------------------------------------------------------");
+		System.out.println("\n--------------------------------------------------------");
 	}
 
 	public void writePrxFile(String filePath,int rowCount,double[][] coTable){
